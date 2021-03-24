@@ -3,6 +3,7 @@
 > &mdash; Hi, my name is Andreas and I'm Head of Data, Analytics & Data Science
 
 This is a curated **and opinionated** list of resources for Chief Data Officers and Head of Data & Analytics. 
+Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
 
 
 ## Contents
